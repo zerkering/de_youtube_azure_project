@@ -1,8 +1,8 @@
 # de_youtube_azure_project
-Exploring opensource data and put it in azure cloud. Perform ELT
+Perform data processing on Azure platform from upstream to downstream
 
 # Download file
-Files are in kaggle: https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset
+Free resource files are in kaggle: https://www.kaggle.com/datasets/rsrishav/youtube-trending-video-dataset
 
 # Data Processing Workflow on Azure Platform
 **1. Data Ingestion**\
