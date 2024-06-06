@@ -6,8 +6,8 @@ Files are in kaggle: https://www.kaggle.com/datasets/rsrishav/youtube-trending-v
 
 # Data Processing Workflow on Azure Platform
 **1. Data Ingestion**
-Tool Used: Azure Data Factory
-Description: Copy raw data from various sources into Azure Data Factory for centralized storage and initial processing.
+Tool Used: Azure Data Factory \
+Description: Copy raw data from various sources into Azure Data Factory for centralized storage and initial processing.\
 **2. Data Storage**
 Tool Used: Azure Data Lake Storage Gen2
 Description: Store the ingested data in Azure Data Lake Gen2, providing scalable and secure storage for large datasets. Additionally, paste cleaned data into a separate directory for easier use in future processes.
