@@ -16,4 +16,4 @@ Tool Used: Azure Databricks\
 Description: Perform data transformation and preprocessing in Azure Databricks. This includes cleaning, aggregating, and preparing data for further analysis.\
 **4. Data Visualization**\
 Tool Used: Tableau\
-Description: Create intuitive and interactive dashboards in Tableau. Utilize the preprocessed data to generate insightful visualizations and reports\
+Description: Connect Databricks to Tableau then create intuitive and interactive dashboards in Tableau. Utilize the preprocessed data to generate insightful visualizations and reports
